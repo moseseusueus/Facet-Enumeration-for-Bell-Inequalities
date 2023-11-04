@@ -1,0 +1,35 @@
+*lrs:lrslib_v.7.2_2022.3.6(64bit,lrslong.h,hybrid_arithmetic)
+chsh_vertex.ine
+H-representation
+begin
+***** 9 rational
+ 1 -1  0 -1  0  1  0  0  0 
+ 1 -1  0  0 -1  0  1  0  0 
+ 1  0 -1 -1  0  0  0  1  0 
+ 1  0 -1  0 -1  0  0  0  1 
+ 0  0  0  0  1  0 -1  0  0 
+ 0  0  0  1  0 -1  0  0  0 
+ 0  1  0  1  0 -1 -1 -1  1 
+ 0  1  0  0  1 -1 -1  1 -1 
+ 0  0  0  0  1  0  0  0 -1 
+ 0  0  0  1  0  0  0 -1  0 
+ 0  0  1  1  0 -1  1 -1 -1 
+ 0  0  1  0  1  1 -1 -1 -1 
+ 0  0  1  0  0  0  0 -1  0 
+ 0  1  0  0  0 -1  0  0  0 
+ 0  0  1  0  0  0  0  0 -1 
+ 0  1  0  0  0  0 -1  0  0 
+ 0  0  0  0  0  0  0  0  1 
+ 1  0 -1  0 -1 -1  1  1  1 
+ 0  0  0  0  0  0  0  1  0 
+ 1  0 -1 -1  0  1 -1  1  1 
+ 0  0  0  0  0  0  1  0  0 
+ 1 -1  0  0 -1  1  1 -1  1 
+ 0  0  0  0  0  1  0  0  0 
+ 1 -1  0 -1  0  1  1  1 -1 
+end
+*Totals: facets=24 bases=64
+*Dictionary Cache: max size= 7 misses= 0/63   Tree Depth= 6
+*overflow checking on lrslong arithmetic
+*lrs:lrslib_v.7.2_2022.3.6(64bit,lrslong.h,hybrid arithmetic)
+*0.000u 0.015s 5016Kb 1325 flts 0 swaps 0 blks-in 0 blks-out 
